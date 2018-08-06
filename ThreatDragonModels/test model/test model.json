@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "test model",
+    "owner": "jeanr"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "d1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "jeanr bis"
+  }
+}
